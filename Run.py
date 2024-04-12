@@ -1,3 +1,1 @@
-import os
-os.system("clear")
-print(" Tools off\n Contact Admin")
+import sxr_f_r
